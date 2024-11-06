@@ -2,7 +2,7 @@
 
 # 🎓 Stud'Insight
 
-Stud'Insight est application web permettant de centraliser l'administration des stages, des mémoires et des travaux d'études et de recherches. Il sert d'intermédiaire entre les étudiants et le personnel enseignant pour mener à bien. 
+Stud'Insight est application web permettant de centraliser l'administration des stages, des mémoires et des travaux d'études et de recherches. Il sert d'intermédiaire entre les étudiants et le personnel enseignant permettant de mener à bien les expériences professionnelles. 
 
 ## Authors
 
